@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-![Header]("https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=HYUNCHIN's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68fontAlignY=36")
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgeniee)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **hgeniee/hgeniee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
