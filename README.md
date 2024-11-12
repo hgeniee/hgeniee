@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-I am hynchin LEE
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+![Header]("https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=HYUNCHIN's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68fontAlignY=36")
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgeniee)](https://github.com/anuraghazra/github-readme-stats)
 
