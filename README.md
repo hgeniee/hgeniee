@@ -1,40 +1,77 @@
-## Hi there 👋
-<div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
-  <h1><strong>HYUNCHIN's GITHUB</strong></h1>
-  <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-  <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=hgeniee&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue" alt="Hyunchin's GitHub stats"/>
-  </a>
-</div>
-  <h3 align="center">📚 Tech Stack 📚</h3>
+<h3 align="center">👋 Hi, I'm Hyunchin Lee</h3>
+<p align="center"><sub>A passionate AI student from Sookmyung Women's University</sub></p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 </p>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
-</div>
+
+---
+
+### 🧠 <sub>About Me</sub>
+
+- 🎓 <sub>Artificial Intelligence major at Sookmyung Women's University</sub>  
+- 💼 <sub>Passionate about building intuitive UIs and scalable backend systems</sub>  
+- 💬 <sub>Feel free to ask me about <strong>Spring Boot, Jetpack Compose, Kotlin, Clean Architecture</strong></sub>  
+- 🌱 <sub>Currently learning <strong>DevOps, Data Analysis, Network Security, and Cloud Infrastructure</strong></sub>
+
+---
+
+### 🏫 <sub>Clubs</sub>
+
+#### 🪐 CODE-IT (Mar 2023 ~ Feb 2025)  
+<sub>• Studied Python and Spring Boot  
+• Built ML-based data analysis projects</sub>
+
+#### 🌿 SOLUX (Mar 2024 ~ Feb 2025)  
+<sub>• Developed two backend-focused projects using Spring Boot  
+• Both projects won 🥉 <strong>3rd place in Solux Award</strong></sub>
+
+#### 🚀 GDGoC (Aug 2024 ~ Jun 2025)  
+<sub>• Studied Kotlin, Jetpack Compose, and CS fundamentals  
+• Working on two frontend projects using Compose</sub>
+
+---
+
+### 🏆 <sub>Competitions</sub>
+
+#### 🎯 IPS Competition – 🥉 3rd Place (2025)  
+
+- Topic : Creating personalized AI services for digitally vulnerable users  
+- Role : Team Lead – Backend (Spring Boot + MySQL), Frontend (JavaScript)
 
 
 <!--
-**hgeniee/hgeniee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🚀 Projects
+- **📱 [프로젝트 이름]**  
+  👉 [GitHub 링크](https://github.com/yourproject)  
+  간단 소개: Jetpack Compose 기반 안드로이드 앱. 로그인, 지도, 음성 안내 기능 포함.
 
-Here are some ideas to get you started:
+- **🌐 LetsIT**  
+  👉 [Demo / 배포 링크] | [GitHub](https://github.com/yourproject)  
+  Spring Boot + React 기반 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+### ⚙️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="mailto:dlguswls4325@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://your-blog.com"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=notion&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+</p>
 -->
