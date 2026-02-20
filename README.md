@@ -17,7 +17,7 @@ class HyunchinLee:
         self.role        = "Backend Developer"
         self.university  = "Sookmyung Women's University (AI, B.Sc. 2027)"
         self.location    = "Seoul, South Korea"
-        self.interests   = ["ROS", "Autonomous Systems", "Cloud Infra", "Backend Design", "ML", "System"]
+        self.interests   = ["Systems", "IoT", "ML", "Backend Design", "Cloud Infra"]
         self.belief      = "Failure is just a bug you haven't documented yet."
 ```
 
@@ -26,9 +26,9 @@ class HyunchinLee:
 ## `$ whoami`
 
 AI undergraduate who **crossed over from algorithms to production code** — and never looked back.
-I work at the intersection of **backend systems**, **cloud infrastructure**, and increasingly, **robotic software**.
+I work at the intersection of **backend systems** and **cloud infrastructure**, with growing interests in **systems, IoT, and ML**.
 
-- Currently deep in **ROS** — working on autonomous car simulation
+- Currently **new to ROS** and actively studying it through autonomous driving simulation projects
 - I treat every post-mortem as a free lesson and every code review as a gift
 - Recipient of the **IT Project Competition of Sookmyung (2025)** & **Academic Scholarship (2025)**
 - Exchange student @ **Northern Kentucky University, CS** (2025)
