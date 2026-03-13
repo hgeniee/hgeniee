@@ -145,3 +145,10 @@ LANG=English    # Full professional — TOEFL 103 (Jan 2025)
 **let's connect.**
 
 </div>
+
+<div align="center">
+    
+[![hgeniee's GitHub stats](https://github-readme-stats.vercel.app/api?username=hgeniee)](https://github.com/hgeniee/github-readme-stats)
+
+</div>
+
