@@ -146,9 +146,3 @@ LANG=English    # Full professional — TOEFL 103 (Jan 2025)
 
 </div>
 
-<div align="center">
-    
-![hgeniee's GitHub stats](https://github-readme-stats.vercel.app/api?username=hgeniee&hide=stars&count_private=true&show_icons=true&theme=dracula)
-
-</div>
-
