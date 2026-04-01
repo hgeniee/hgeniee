@@ -28,7 +28,7 @@ class HyunchinLee:
 AI undergraduate who **crossed over from algorithms to production code** — and never looked back.
 I work at the intersection of **backend systems** and **cloud infrastructure**, with growing interests in **systems, IoT, and ML**.
 
-- Currently **new to ROS** and actively studying it through autonomous driving simulation projects
+- Currently exploring **Docker, Kubernetes, Azure, and AWS** — learning how systems scale beyond a single machine
 - I treat every post-mortem as a free lesson and every code review as a gift
 - Recipient of the **IT Project Competition of Sookmyung (2025)** & **Academic Scholarship (2025)**
 - Exchange student @ **Northern Kentucky University, CS** (2025)
@@ -42,10 +42,10 @@ I work at the intersection of **backend systems** and **cloud infrastructure**, 
 | Layer | Technologies |
 |-------|-------------|
 | **Backend** | Spring Boot · Flask · RESTful APIs |
-| **Languages** | Java · Kotlin · Python · JavaScript · SQL · C++ |
-| **Cloud & DevOps** | AWS · Docker · Nginx · CI/CD · Linux |
+| **Languages** | Java · Kotlin · Python · SQL |
+| **Cloud & DevOps** | AWS · Docker · Nginx · CI/CD · Linux · Azure |
 | **AI & Data** | OpenCV · Pandas · NumPy · MySQL · MongoDB |
-| **Tools** | IntelliJ · VS Code · Postman · Android Studio |
+| **Tools** | IntelliJ · VS Code · Postman · Android Studio · GitHub · Notion  |
 
 </div>
 
@@ -57,6 +57,7 @@ I work at the intersection of **backend systems** and **cloud infrastructure**, 
 > Cloud-based IDE & education platform — Feb 2026 (1 month)
 
 - Contributed to full stack feature development across frontend and backend
+- Conducted pre-release service QA and **self-organized with teammates to divide and resolve all QA issues** before production deployment
 - Gained hands-on experience in a real production environment and professional engineering workflow
 
 ---
