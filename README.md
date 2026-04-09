@@ -17,7 +17,7 @@ class HyunchinLee:
         self.role        = "Backend Developer"
         self.university  = "Sookmyung Women's University (AI, B.Sc. 2027)"
         self.location    = "Seoul, South Korea"
-        self.interests   = ["Systems", "IoT", "ML", "Backend Design", "Cloud Infra"]
+        self.interests   = ["Systems", "IoT", "ML", "Backend Design", "Cloud Infra", "Data Engineering"]
         self.belief      = "Failure is just a bug you haven't documented yet."
 ```
 
@@ -70,6 +70,7 @@ I work at the intersection of **backend systems** and **cloud infrastructure**, 
 - Led team as **project leader**, routing tasks by each member's strengths
 - Owned the hard part: **Flask (AI) ↔ Java (Backend)** server integration, resolved data communication errors the team found difficult
 - Built **age-estimation logic with OpenCV** + UI that auto-scales text for elderly users
+- [Link to GitHub Repository](https://github.com/IPS-Keyosk/IPS-Keyosk-Backend.git)
 
 ---
 
@@ -78,6 +79,7 @@ I work at the intersection of **backend systems** and **cloud infrastructure**, 
 
 - Implemented **JWT auth (Access + Refresh Token)** for secure user sessions
 - Designed DB schema and logic for **eco-activity history & point accumulation** in Java
+- [Link to GitHub Repository](https://github.com/App-cellent/29th_2_appcellent_dotheG_back.git)
 
 ---
 
@@ -87,6 +89,7 @@ I work at the intersection of **backend systems** and **cloud infrastructure**, 
 - Built **RESTful APIs** with Spring Boot for user management and project posts
 - Integrated **OAuth 2.0 social login** to remove sign-up friction
 - Maintained API documentation to keep FE–BE sync smooth
+- [Link to GitHub Repository](https://github.com/Lets-IT-develop/SOLUX_LETS_IT_Backend.git)
 
 ---
 
@@ -95,6 +98,7 @@ I work at the intersection of **backend systems** and **cloud infrastructure**, 
 
 - Developed **login/signup modules** and integrated **public data APIs** for map display
 - Designed with accessibility as the primary constraint, not an afterthought
+- [Link to GitHub Repository](https://github.com/barrier-free-app/barrier-free-frontend.git)
 
 ---
 
@@ -103,6 +107,7 @@ I work at the intersection of **backend systems** and **cloud infrastructure**, 
 
 - Integrated **Naver Maps API** in Kotlin for location-based services
 - Built **interactive Bottom Sheet UI** and advanced search filtering logic
+- [Link to GitHub Repository](https://github.com/hgeniee/GDGoC-Success-Seollyongdan-frontend.git)
 
 ---
 
@@ -111,7 +116,7 @@ I work at the intersection of **backend systems** and **cloud infrastructure**, 
 
 - Deployed reverse proxy with **Docker + Nginx** for local traffic management
 - Learned container reproducibility the hard way: by breaking it first
-
+- [Link to Notion Report](https://bramble-jet-808.notion.site/Docker-and-NGINX-Reverse-Proxy-3072fdd129988084b04ecad1359d4be9?source=copy_link)
 ---
 
 ## `$ cat values.md`
