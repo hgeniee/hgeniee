@@ -1,6 +1,6 @@
 <div align="center">
 
-### `Hyun-chin Lee` · Backend Developer · AI Undergraduate
+### `Hyun-chin Lee` · AI Undergraduate
 
 *Seoul, South Korea — building systems that don't panic*
 
