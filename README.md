@@ -7,9 +7,11 @@ Seoul · Sookmyung Women's University (AI, B.Sc. 2027)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/hgeniee)
 
 </div>
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/hgeniee"/>
-</a>
+<div align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/hgeniee"/>
+  </a>
+</div>
 
 ---
 
