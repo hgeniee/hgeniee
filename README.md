@@ -7,6 +7,7 @@ Seoul · Sookmyung Women's University (AI, B.Sc. 2027)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/hgeniee)
 
 </div>
+
 <div align="center">
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/hgeniee"/>
@@ -21,6 +22,18 @@ Working at the intersection of **backend systems** and **cloud infra**, with gro
 **Stack** · Spring Boot · Flask · Java · Kotlin · Python · AWS · Docker · Nginx · MySQL · MongoDB
 
 **Experience** · Goorm Full Stack Intern (Feb 2026) · Exchange @ NKU CS (2025)
+
+---
+
+## 🏛️ Activities
+
+| Period | Organization | Role |
+|--------|-------------|------|
+| 2023.03 – 2024.12 | Code-IT | Member · AI Club |
+| 2024.03 – 2025.02 | SOLUX | Backend Developer |
+| 2024.08 – 2025.06 | GDGoC | Android Developer |
+| 2025.05 | IPS Competition | Backend Developer & Team Lead |
+| 2026.03 – present | SSS Lab | Undergraduate Researcher |
 
 ---
 
