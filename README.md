@@ -31,11 +31,11 @@ Working at the intersection of **backend systems** and **cloud infra**, with gro
 |--------|-------------|------|
 | 2023.03 – 2024.12 | Code-IT | Member · AI Club |
 | 2024.03 – 2025.02 | SOLUX | Backend Developer |
-| 2024.08 | Solux 3rd place, Project Excellent Prize | Backend Developer (Let'sIT) |
-| 2025.02 | Solux 3rd place, Project Excellent Prize | Backend Developer (DotheG) |
+| 2024.08 | 🥉 3rd place, Project Excellent Prize in Solux | Backend Developer (Let'sIT) |
+| 2025.02 | 🥉 3rd place, Project Excellent Prize in Solux | Backend Developer (DotheG) |
 | 2024.08 – 2025.06 | GDGoC | Android Developer |
 | 2025.03 – 2025.08 | Moduro | Android Developer |
-| 2025.05 | IPS Competition 3rd place | Backend Developer & Team Lead |
+| 2025.05 | 🥉 3rd place, IPS Competition | Backend Developer & Team Lead |
 | 2025.03 – present | O-Meal | Backend Developer |
 | 2026.03 – present | SSS Lab | Undergraduate Researcher |
 
