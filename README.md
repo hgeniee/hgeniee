@@ -38,6 +38,8 @@ Working at the intersection of **backend systems** and **cloud infra**, with gro
 | 2025.05 | 🥉 3rd place, IPS Competition | Backend Developer & Team Lead |
 | 2025.03 – present | O-Meal | Backend Developer |
 | 2026.03 – present | SSS Lab | Undergraduate Researcher |
+| 2026.03 – present | FROZEN | Perception team, Autonomous Driving Club |
+
 
 ---
 
