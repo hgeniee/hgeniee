@@ -21,7 +21,7 @@ Working at the intersection of **backend systems** and **cloud infra**, with gro
 
 **Stack** · Spring Boot · Flask · Java · Kotlin · Python · AWS · Docker · Nginx · MySQL · Azure
 
-**Experience** · Goorm Full Stack Intern (Feb 2026) · Exchange @ NKU CS (2025)
+**Experience** · Goorm Full Stack Intern (Feb 2026) · Exchange Student @ NKU CS (2025.8 - 2025.12)
 
 ---
 
