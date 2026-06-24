@@ -17,7 +17,7 @@ Seoul · Sookmyung Women's University (AI, B.Sc. 2027)
 ---
 
 Backend developer who crossed from algorithms to production code — and never looked back.  
-Working at the intersection of **backend systems** and **cloud infra**, with growing interests in **IoT and ML**.
+Working at the intersection of **backend systems** and **cloud infra**, with growing interests in **MLops and VLA**.
 
 **Stack** · Spring Boot · Flask · Java · Kotlin · Python · AWS · Docker · Nginx · MySQL · Azure
 
@@ -37,9 +37,8 @@ Working at the intersection of **backend systems** and **cloud infra**, with gro
 | 2025.03 – 2025.08 | Moduro | Android Developer |
 | 2025.05 | 🥉 3rd place, IPS Competition | Backend Developer & Team Lead |
 | 2025.03 – present | O-Meal | Backend Developer |
-| 2026.03 – present | SSS Lab | Undergraduate Researcher |
+| 2026.03 – present | SSS Lab | Undergraduate Researcher, researching file carving in linux |
 | 2026.03 – present | FROZEN | Perception team, Autonomous Driving Club |
-
 
 ---
 
