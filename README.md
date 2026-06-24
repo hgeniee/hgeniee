@@ -31,14 +31,16 @@ Working at the intersection of **backend systems** and **cloud infra**, with gro
 |--------|-------------|------|
 | 2023.03 – 2024.12 | Code-IT | Member · AI Club |
 | 2024.03 – 2025.02 | SOLUX | Backend Developer |
-| 2024.08 | 🥉 3rd place, Project Excellent Prize in Solux | Backend Developer (Let'sIT) |
-| 2025.02 | 🥉 3rd place, Project Excellent Prize in Solux | Backend Developer (DotheG) |
+| 2024.08 | 🥉 3rd place, Project Excellent Prize in Solux | [Backend Developer (Let'sIT)](https://github.com/Lets-IT-develop/SOLUX_LETS_IT_Backend) |
+| 2025.02 | 🥉 3rd place, Project Excellent Prize in Solux | [Backend Developer (DotheG)](https://github.com/App-cellent/29th_2_appcellent_dotheG_back) |
 | 2024.08 – 2025.06 | GDGoC | Android Developer |
-| 2025.03 – 2025.08 | Moduro | Android Developer |
-| 2025.05 | 🥉 3rd place, IPS Competition | Backend Developer & Team Lead |
+| 2025.03 – 2025.08 | Moduro | [Android Developer](https://github.com/barrier-free-app/barrier-free-frontend) |
+| 2025.05 | 🥉 3rd place, IPS Competition | [Backend Developer & Team Lead](https://github.com/IPS-Keyosk/IPS-Keyosk-Backend) |
 | 2025.03 – present | O-Meal | Backend Developer |
 | 2026.03 – present | SSS Lab | Undergraduate Researcher, researching file carving in linux |
 | 2026.03 – present | FROZEN | Perception team, Autonomous Driving Club |
+| 2026.03 – 2026.06 | findGuma | [Course Project · Network Protocol Design](https://github.com/2026-GoGuMa/findGuma) |
+| 2026.05 – 2026.06 | TroubleLog | [Backend Developer & Infrastructure](https://github.com/TroubleLog/TroubleLog-server) |
 
 ---
 
