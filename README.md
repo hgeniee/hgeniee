@@ -16,8 +16,7 @@ Seoul · Sookmyung Women's University (AI, B.Sc. 2027)
 
 ---
 
-Backend developer who crossed from algorithms to production code — and never looked back.  
-Working at the intersection of **backend systems** and **cloud infra**, with growing interests in **MLops and VLA**.
+Working at the intersection of **backend systems** and **cloud infra**, with growing interests in **CV, VLA**.
 
 **Stack** · Spring Boot · Flask · Java · Kotlin · Python · AWS · Docker · Nginx · MySQL · Azure
 
