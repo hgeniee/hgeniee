@@ -18,7 +18,10 @@ Seoul · Sookmyung Women's University (AI, B.Sc. 2027)
 
 Working at the intersection of **backend systems** and **cloud infra**, with growing interests in **CV, VLA**.
 
-**Stack** · Spring Boot · Flask · Java · Kotlin · Python · AWS · Docker · Nginx · MySQL · Azure
+## 🛠️ Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,java,kotlin,androidstudio,python,aws,docker,mysql,azure,opencv" />
+</p>
 
 ## 💼 Experience
 
