@@ -27,28 +27,27 @@ Working at the intersection of **backend systems** and **cloud infra**, with gro
 
 | Period | Role | Company |
 |--------|------|---------|
-| Jun 2026 ~ | Full Stack & ML Intern | 🦾 Mandro |
+| Jun 2026 | Full Stack & ML Intern | 🦾 Mandro |
 | Feb 2026 | Full Stack Intern | ☁️ Goorm |
 | Aug ~ Dec 2025 | Exchange Student (CS) | 🇺🇸 NKU |
 
 ---
 
-## 🏛️ Activities
+## 🏛️ Clubs & Research
+- **Code-IT** · AI Club Member · 2023.03 – 2024.12
+- **SOLUX** · Backend Developer · 2024.03 – 2025.02
+- **GDGoC** · Android Developer · 2024.08 – 2025.06
+- **FROZEN** · Perception Team, Autonomous Driving Club · 2026.03 – present
+- **SSS Lab** · Undergraduate Researcher (File Carving, Linux) · 2026.03 – 2026.06
+- **AUSG** · AWSKRUG University Student Group Member · 2026.07 – present
 
-| Period | Organization | Role |
-|--------|-------------|------|
-| 2023.03 – 2024.12 | Code-IT | Member · AI Club |
-| 2024.03 – 2025.02 | SOLUX | Backend Developer |
-| 2024.08 | 🥉 3rd place, Project Excellent Prize in Solux | [Backend Developer (Let'sIT)](https://github.com/Lets-IT-develop/SOLUX_LETS_IT_Backend) |
-| 2025.02 | 🥉 3rd place, Project Excellent Prize in Solux | [Backend Developer (DotheG)](https://github.com/App-cellent/29th_2_appcellent_dotheG_back) |
-| 2024.08 – 2025.06 | GDGoC | Android Developer |
-| 2025.03 – 2025.08 | Moduro | [Android Developer](https://github.com/barrier-free-app/barrier-free-frontend) |
-| 2025.05 | 🥉 3rd place, IPS Competition | [Backend Developer & Team Lead](https://github.com/IPS-Keyosk/IPS-Keyosk-Backend) |
-| 2025.03 – present | O-Meal | Backend Developer |
-| 2026.03 – present | SSS Lab | Undergraduate Researcher, researching file carving in linux |
-| 2026.03 – present | FROZEN | Perception team, Autonomous Driving Club |
-| 2026.03 – 2026.06 | findGuma | [Course Project · Network Protocol Design](https://github.com/2026-GoGuMa/findGuma) |
-| 2026.05 – 2026.06 | TroubleLog | [Backend Developer & Infrastructure](https://github.com/TroubleLog/TroubleLog-server) |
+## 💻 Projects
+- **[Let'sIT](https://github.com/Lets-IT-develop/SOLUX_LETS_IT_Backend)** · Backend Developer · SOLUX · 🥉 3rd Place, Project Excellent Prize · 2024.08
+- **[DotheG](https://github.com/App-cellent/29th_2_appcellent_dotheG_back)** · Backend Developer · SOLUX · 🥉 3rd Place, Project Excellent Prize · 2025.02
+- **[Moduro](https://github.com/barrier-free-app/barrier-free-frontend)** · Android Developer · 2025.03 – 2025.08
+- **[IPS Keyosk](https://github.com/IPS-Keyosk/IPS-Keyosk-Backend)** · Backend Developer & Team Lead · 🥉 3rd Place, IPS Competition · 2025.05
+- **[findGuma](https://github.com/2026-GoGuMa/findGuma)** · Network Protocol Design (Course Project) · 2026.03 – 2026.06
+- **[TroubleLog](https://github.com/TroubleLog/TroubleLog-server)** · Backend Developer & Infrastructure · 2026.05 – 2026.06
 
 ---
 
