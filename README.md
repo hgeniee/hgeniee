@@ -33,6 +33,12 @@ Working at the intersection of **backend systems** and **cloud infra**, with gro
 
 ---
 
+## 💡 Certificate
+- TOEFL 103/120
+- OPIc AL
+
+---
+
 ## 🏛️ Clubs & Research
 - **Code-IT** · AI Club Member · 2023.03 – 2024.12
 - **SOLUX** · Backend Developer · 2024.03 – 2025.02
